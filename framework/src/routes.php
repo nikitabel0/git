@@ -12,3 +12,4 @@
         '~article/comment/(\d+)~'=>[src\Controllers\CommentController::class, 'store'],
         '~comment/delete/(\d+)~'=>[src\Controllers\CommentController::class, 'delete']
     ];
+      
